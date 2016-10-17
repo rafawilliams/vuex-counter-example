@@ -1,3 +1,4 @@
+<style src="../../css/bulma.css"></style>
 <template>
   <button class="button is-info" @click.prevent="activate">+1</button>
 </template>
